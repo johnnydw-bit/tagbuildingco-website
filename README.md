@@ -24,7 +24,7 @@ Then open http://localhost:4321.
 Most of the copy was written without input from TAG, so check these items:
 
 - [ ] **Services:** extensions, loft conversions, renovations, kitchens & bathrooms, driveways/patios/groundworks, repairs & maintenance. Remove anything TAG doesn't do and add anything missing. The list appears in the service cards, the hero strip, the form's "Type of work" dropdown and the meta description.
-- [ ] **Areas covered:** Farnborough, Farnham, Fleet, Aldershot, Church Crookham, Ash & Tongham, Frimley, Camberley. These were inferred from the 01252 number and the Farnborough registered office.
+- [ ] **Areas covered:** Farnborough, Farnham, Fleet, Aldershot, Church Crookham, Ash & Tongham, Frimley, Camberley. These were inferred from the Farnborough registered office (and the old 01252 landline).
 - [ ] **"How we work" steps:** site visit and written, itemised quote. Make sure this matches how TAG actually works, and say "free" if quotes are free.
 - [ ] **About us text:** a neutral draft. Ideally replace it with TAG's own story, such as who runs it, experience, and any trade body memberships or insurance.
 - [ ] **Legal footer:** company no. 13102668, registered office 8 Winchester Street, Farnborough GU14 6AW (from Companies House, Nov 2026). UK company websites must show the name, number, place of registration and registered office.
