@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#b8923c"/>
+      <stop offset=".5" stop-color="#ecd38e"/>
+      <stop offset="1" stop-color="#b8923c"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="#151515"/>
+  <path d="M9 31 L32 13 L55 31" fill="none" stroke="url(#g)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M43 22 V14 H49 V26.5" fill="none" stroke="url(#g)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="32" y="53" text-anchor="middle" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="19" letter-spacing="1" fill="url(#g)">TAG</text>
+</svg>
